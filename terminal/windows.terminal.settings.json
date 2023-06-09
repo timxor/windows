@@ -31,13 +31,19 @@
   ],
   "copyFormatting": "none",
   "copyOnSelect": false,
-  "defaultProfile": "{5fb123f1-af88-5b5c-8953-d14a8def1978}",
+  "defaultProfile": "{747c0609-9336-4296-b4e5-2deb92365831}",
   "firstWindowPreference": "persistedWindowLayout",
   "profiles":
   {
     "defaults": {},
     "list":
     [
+      {
+        "guid": "{747c0609-9336-4296-b4e5-2deb92365831}",
+        "hidden": false,
+        "name": "Ubuntu",
+        "source": "ubuntu.exe"
+      },
       {
         "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
         "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",

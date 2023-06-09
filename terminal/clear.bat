@@ -1,0 +1,4 @@
+```batch
+@echo off
+cls
+```
